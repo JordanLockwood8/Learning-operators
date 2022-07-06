@@ -2,9 +2,10 @@
 //excersize1
 /*int x = 10;
 int z = 20;
-var ans1= x-z;
-var ans2= x+z;
-var ans3= x-z;*/
+x-=z;
+x+=z;
+x-=z;
+x*=
 
 //excersize 1.2
 var a = 17;
